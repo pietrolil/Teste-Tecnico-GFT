@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
  
-namespace Desafio2
+namespace Desafio2e3
 {
     public class Loja
     {
