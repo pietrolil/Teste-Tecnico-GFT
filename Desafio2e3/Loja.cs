@@ -5,16 +5,16 @@ using System.Text;
  
 namespace Desafio2
 {
-    public class Livro : Produto
+    public class Loja
     {
         private String nome;
         private String cnpj;
         private List<Livro>livros;
         private List<VideoGame>videoGames;
  
-        public Livro() { }
+        public Loja() { }
  
-        public Livro(String nome, String cnpj, int videoGamesList)
+        public Loja(String nome, String cnpj, int videoGamesList)
         {
             this.nome = nome;
             this.cnpj = cnpj;
